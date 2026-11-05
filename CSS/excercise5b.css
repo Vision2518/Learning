@@ -1,0 +1,22 @@
+p{
+    font-family:Arial;
+}
+.price{
+  font-size:32px;
+   margin-bottom:0px;
+}
+.currency{
+    font-size:16px;
+     color: rgb(100, 100, 100);
+    
+}
+.before{
+
+    color: rgb(24, 128, 56);
+}
+.change{
+    color: rgb(100, 100, 100);
+}
+.after-hours{
+   color:red;
+}
